@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\ChickEggGo\ChickEggGo\bin\Debug\ChickEggGo.exe.config
+C:\Users\User\source\repos\ChickEggGo\ChickEggGo\bin\Debug\ChickEggGo.exe
+C:\Users\User\source\repos\ChickEggGo\ChickEggGo\bin\Debug\ChickEggGo.pdb
+C:\Users\User\source\repos\ChickEggGo\ChickEggGo\obj\Debug\ChickEggGo.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ChickEggGo\ChickEggGo\obj\Debug\ChickEggGo.Form1.resources
+C:\Users\User\source\repos\ChickEggGo\ChickEggGo\obj\Debug\ChickEggGo.Properties.Resources.resources
+C:\Users\User\source\repos\ChickEggGo\ChickEggGo\obj\Debug\ChickEggGo.csproj.GenerateResource.cache
+C:\Users\User\source\repos\ChickEggGo\ChickEggGo\obj\Debug\ChickEggGo.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ChickEggGo\ChickEggGo\obj\Debug\ChickEggGo.exe
+C:\Users\User\source\repos\ChickEggGo\ChickEggGo\obj\Debug\ChickEggGo.pdb
